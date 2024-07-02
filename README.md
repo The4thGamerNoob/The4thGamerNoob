@@ -1,8 +1,9 @@
-## Hi there 👋
+## 👋 Hi there
 - 🙃 I'm @The4thGamerNoob
 - 👍 My interests are video games and coding
 - 🌱 I'm currently learning javascript, hscript and lua
 - 😄 My pronouns are he/him
+- 🔭 I’m currently working on a FNF mod
 
 <!--
 **The4thGamerNoob/The4thGamerNoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
