@@ -1,5 +1,6 @@
 ## Hi there 👋
 - 🙃 I'm @The4thGamerNoob
+- 👍 My interests are video games and coding
 - 🌱 I'm currently learning javascript, hscript and lua
 
 <!--
