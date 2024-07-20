@@ -1,7 +1,7 @@
 ## 👋 Hi there
 - 🙃 I'm @The4thGamerNoob
 - 👍 My interests are video games and coding
-- 🌱 I'm currently learning javascript, hscript and lua
+- 🌱 I'm currently learning javascript, hscript, lua and haxe
 - 🔭 I’m currently working on a FNF mod
 - 😄 My pronouns are he/him
 
